@@ -74,11 +74,12 @@ Points to note for Asp.NET Core Web API practice
 		.Delete
 		.IsExistingUser
 
-.Integration:Postman-OK
-	GET: api/UserGenerator/?results=5&search=liqi
-	GET: api/UserGenerator/5
-	PUT: api/UserGenerator/5
-	DELETE: api/UserGenerator/5
+.Integration:
+	Postman-OK
+		.GET: api/UserGenerator/?results=5&search=liqi
+		.GET: api/UserGenerator/5
+		.PUT: api/UserGenerator/5
+		.DELETE: api/UserGenerator/5
 
 ////////////////////////////////Question and Answer///////////////////////////
 
