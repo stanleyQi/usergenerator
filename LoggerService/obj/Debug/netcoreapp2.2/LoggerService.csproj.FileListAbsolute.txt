@@ -1,0 +1,7 @@
+E:\Study\aspnetcorebestpractice\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.deps.json
+E:\Study\aspnetcorebestpractice\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.dll
+E:\Study\aspnetcorebestpractice\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.pdb
+E:\Study\aspnetcorebestpractice\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.AssemblyInfoInputs.cache
+E:\Study\aspnetcorebestpractice\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.AssemblyInfo.cs
+E:\Study\aspnetcorebestpractice\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.dll
+E:\Study\aspnetcorebestpractice\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.pdb

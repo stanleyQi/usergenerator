@@ -1,0 +1,8 @@
+E:\Study\aspnetcorebestpractice\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+E:\Study\aspnetcorebestpractice\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+E:\Study\aspnetcorebestpractice\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+E:\Study\aspnetcorebestpractice\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+E:\Study\aspnetcorebestpractice\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+E:\Study\aspnetcorebestpractice\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+E:\Study\aspnetcorebestpractice\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
+E:\Study\aspnetcorebestpractice\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache

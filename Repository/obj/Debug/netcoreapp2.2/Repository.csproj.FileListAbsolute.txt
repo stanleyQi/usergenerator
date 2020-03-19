@@ -1,0 +1,15 @@
+E:\Study\aspnetcorebestpractice\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+E:\Study\aspnetcorebestpractice\Repository\bin\Debug\netcoreapp2.2\Repository.runtimeconfig.json
+E:\Study\aspnetcorebestpractice\Repository\bin\Debug\netcoreapp2.2\Repository.runtimeconfig.dev.json
+E:\Study\aspnetcorebestpractice\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+E:\Study\aspnetcorebestpractice\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+E:\Study\aspnetcorebestpractice\Repository\bin\Debug\netcoreapp2.2\Contracts.dll
+E:\Study\aspnetcorebestpractice\Repository\bin\Debug\netcoreapp2.2\Entities.dll
+E:\Study\aspnetcorebestpractice\Repository\bin\Debug\netcoreapp2.2\Contracts.pdb
+E:\Study\aspnetcorebestpractice\Repository\bin\Debug\netcoreapp2.2\Entities.pdb
+E:\Study\aspnetcorebestpractice\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+E:\Study\aspnetcorebestpractice\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+E:\Study\aspnetcorebestpractice\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+E:\Study\aspnetcorebestpractice\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+E:\Study\aspnetcorebestpractice\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+E:\Study\aspnetcorebestpractice\Repository\obj\Debug\netcoreapp2.2\Repository.pdb

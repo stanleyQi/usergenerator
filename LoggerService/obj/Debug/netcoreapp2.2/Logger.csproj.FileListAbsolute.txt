@@ -1,0 +1,13 @@
+E:\Study\aspnetcorebestpractice\LoggerService\bin\Debug\netcoreapp2.2\Logger.deps.json
+E:\Study\aspnetcorebestpractice\LoggerService\bin\Debug\netcoreapp2.2\Logger.dll
+E:\Study\aspnetcorebestpractice\LoggerService\bin\Debug\netcoreapp2.2\Logger.pdb
+E:\Study\aspnetcorebestpractice\LoggerService\bin\Debug\netcoreapp2.2\Contracts.dll
+E:\Study\aspnetcorebestpractice\LoggerService\bin\Debug\netcoreapp2.2\Entities.dll
+E:\Study\aspnetcorebestpractice\LoggerService\bin\Debug\netcoreapp2.2\Contracts.pdb
+E:\Study\aspnetcorebestpractice\LoggerService\bin\Debug\netcoreapp2.2\Entities.pdb
+E:\Study\aspnetcorebestpractice\LoggerService\obj\Debug\netcoreapp2.2\Logger.csprojAssemblyReference.cache
+E:\Study\aspnetcorebestpractice\LoggerService\obj\Debug\netcoreapp2.2\Logger.AssemblyInfoInputs.cache
+E:\Study\aspnetcorebestpractice\LoggerService\obj\Debug\netcoreapp2.2\Logger.AssemblyInfo.cs
+E:\Study\aspnetcorebestpractice\LoggerService\obj\Debug\netcoreapp2.2\Logger.csproj.CopyComplete
+E:\Study\aspnetcorebestpractice\LoggerService\obj\Debug\netcoreapp2.2\Logger.dll
+E:\Study\aspnetcorebestpractice\LoggerService\obj\Debug\netcoreapp2.2\Logger.pdb

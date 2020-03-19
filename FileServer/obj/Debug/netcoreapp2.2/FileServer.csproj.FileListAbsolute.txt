@@ -1,0 +1,16 @@
+E:\Study\aspnetcorebestpractice\FileServer\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Study\aspnetcorebestpractice\FileServer\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Study\aspnetcorebestpractice\FileServer\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Study\aspnetcorebestpractice\FileServer\bin\Debug\netcoreapp2.2\FileServer.deps.json
+E:\Study\aspnetcorebestpractice\FileServer\bin\Debug\netcoreapp2.2\FileServer.runtimeconfig.json
+E:\Study\aspnetcorebestpractice\FileServer\bin\Debug\netcoreapp2.2\FileServer.runtimeconfig.dev.json
+E:\Study\aspnetcorebestpractice\FileServer\bin\Debug\netcoreapp2.2\FileServer.dll
+E:\Study\aspnetcorebestpractice\FileServer\bin\Debug\netcoreapp2.2\FileServer.pdb
+E:\Study\aspnetcorebestpractice\FileServer\obj\Debug\netcoreapp2.2\FileServer.csprojAssemblyReference.cache
+E:\Study\aspnetcorebestpractice\FileServer\obj\Debug\netcoreapp2.2\FileServer.RazorAssemblyInfo.cache
+E:\Study\aspnetcorebestpractice\FileServer\obj\Debug\netcoreapp2.2\FileServer.RazorAssemblyInfo.cs
+E:\Study\aspnetcorebestpractice\FileServer\obj\Debug\netcoreapp2.2\FileServer.AssemblyInfoInputs.cache
+E:\Study\aspnetcorebestpractice\FileServer\obj\Debug\netcoreapp2.2\FileServer.AssemblyInfo.cs
+E:\Study\aspnetcorebestpractice\FileServer\obj\Debug\netcoreapp2.2\FileServer.RazorTargetAssemblyInfo.cache
+E:\Study\aspnetcorebestpractice\FileServer\obj\Debug\netcoreapp2.2\FileServer.dll
+E:\Study\aspnetcorebestpractice\FileServer\obj\Debug\netcoreapp2.2\FileServer.pdb

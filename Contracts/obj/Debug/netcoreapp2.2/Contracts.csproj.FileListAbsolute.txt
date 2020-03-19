@@ -1,0 +1,11 @@
+E:\Study\aspnetcorebestpractice\Contracts\bin\Debug\netcoreapp2.2\Contracts.deps.json
+E:\Study\aspnetcorebestpractice\Contracts\bin\Debug\netcoreapp2.2\Contracts.dll
+E:\Study\aspnetcorebestpractice\Contracts\bin\Debug\netcoreapp2.2\Contracts.pdb
+E:\Study\aspnetcorebestpractice\Contracts\bin\Debug\netcoreapp2.2\Entities.dll
+E:\Study\aspnetcorebestpractice\Contracts\bin\Debug\netcoreapp2.2\Entities.pdb
+E:\Study\aspnetcorebestpractice\Contracts\obj\Debug\netcoreapp2.2\Contracts.csprojAssemblyReference.cache
+E:\Study\aspnetcorebestpractice\Contracts\obj\Debug\netcoreapp2.2\Contracts.AssemblyInfoInputs.cache
+E:\Study\aspnetcorebestpractice\Contracts\obj\Debug\netcoreapp2.2\Contracts.AssemblyInfo.cs
+E:\Study\aspnetcorebestpractice\Contracts\obj\Debug\netcoreapp2.2\Contracts.csproj.CopyComplete
+E:\Study\aspnetcorebestpractice\Contracts\obj\Debug\netcoreapp2.2\Contracts.dll
+E:\Study\aspnetcorebestpractice\Contracts\obj\Debug\netcoreapp2.2\Contracts.pdb
