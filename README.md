@@ -15,7 +15,7 @@ Logger:Logservice
 Repository:DB manipulation
 Usergenerator.Tests:Unit test---In progress...
 Integeration.Tests:Postman test collection script
-
+![](https://github.com/stanleyQi/usergenerator/raw/master/Usergenerator.Tests/result/tree.png)
 -------------------------------Dev--------------------------------
 <br>
 Points to note for Asp.NET Core Web API practice
@@ -60,7 +60,7 @@ Points to note for Asp.NET Core Web API practice
 .UT:xUnit
 	These unit tests are focus on the actions of the controller's behaviors.
 	Those such as filters, routing, model binding will be validated in the integration test.
-
+![](https://github.com/stanleyQi/usergenerator/raw/master/Usergenerator.Tests/result/XUnit-ut-result.png)  
 	Controller-OK
 		.Get([FromQuery(Name = "results")] string queryCount, [FromQuery(Name = "search")] string searchName)	
 		.GetUser(long id)
@@ -75,7 +75,7 @@ Points to note for Asp.NET Core Web API practice
 		.IsExistingUser
 
 .Integration:
-
+![](https://github.com/stanleyQi/usergenerator/raw/master/Integeration.Tests/Postman-integrationtesting-result.png)
 	Postman-OK
 		.GET: api/UserGenerator/?results=5&search=liqi
 		.GET: api/UserGenerator/5
