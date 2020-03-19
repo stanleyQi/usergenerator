@@ -1,0 +1,244 @@
+{
+	"info": {
+		"_postman_id": "dc8d2735-c75d-4929-927f-d79aceffc976",
+		"name": "usergenerator",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "getusersbycondition",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "ba4612cb-0985-47dd-b447-d94fb9c2c6ca",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/usergenerator",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"usergenerator"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getuserbycondition-returnusersbycondition-results",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "849758bb-3c73-41a1-bacd-b80e813171e8",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/usergenerator/?results=3",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"usergenerator",
+						""
+					],
+					"query": [
+						{
+							"key": "results",
+							"value": "3"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getuserbycondition-returnusersbycondition-search",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "dcbd27e1-82af-4146-88f2-5ca139824958",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/usergenerator/?results=3&search=qi",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"usergenerator",
+						""
+					],
+					"query": [
+						{
+							"key": "results",
+							"value": "3"
+						},
+						{
+							"key": "search",
+							"value": "qi"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getsingleuser",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "e47e6099-ead7-47cc-b052-07811affa67d",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/usergenerator/4",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"usergenerator",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "updateuser",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "94389055-0c79-43c7-8e4d-297a611da1dd",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": 4,\r\n    \"email\": \"qili2@gmail.com\",\r\n    \"title\": \"liqi2\",\r\n    \"lastName\": \"qi\",\r\n    \"firstName\": \"li\",\r\n    \"birthday\": \"27-12-1981\",\r\n    \"phone\": \"22222222222222222222222222222222222222222222222\",\r\n    \"thumbnail\": \"https://localhost:5003/liqi2-small.png\",\r\n    \"largeImage\": \"https://localhost:5003/liqi2-big.png\",\r\n    \"other\": \"4444444444444444444444444444444444444444444444\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5001/api/usergenerator/4",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"usergenerator",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "deleteuser",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "67baa068-d02c-4a2c-beff-722a332fcaea",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/usergenerator/10007",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"usergenerator",
+						"10007"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

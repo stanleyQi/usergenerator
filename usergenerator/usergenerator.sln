@@ -20,12 +20,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "..\Repository
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileServer", "..\FileServer\FileServer.csproj", "{7ABCAA68-25D4-439B-AAFA-F82AB64E6751}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usergenerator.Tests", "..\Usergenerator.Tests\Usergenerator.Tests.csproj", "{70A5C37B-8718-4E63-930D-47FB4118B4D7}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integeration.Tests", "Integeration.Tests", "{4B41B6FD-3749-46E5-93EF-AC8286EEE50D}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\qili8\OneDrive\桌面\Integeration.Tests\usergenerator.postman_collection(onec the user record was deleted, the deletion testing will be 404).json = C:\Users\qili8\OneDrive\桌面\Integeration.Tests\usergenerator.postman_collection(onec the user record was deleted, the deletion testing will be 404).json
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Usergenerator.Tests", "..\Usergenerator.Tests\Usergenerator.Tests.csproj", "{70A5C37B-8718-4E63-930D-47FB4118B4D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
