@@ -1,5 +1,6 @@
 # usergenerator
 ---------------------------Introduction----------------------
+<br>
 Tech stack:
 	Dev-Asp.net core2.2, EF core, LocalDB
 	Test-XUnit, Postman
@@ -16,6 +17,7 @@ Usergenerator.Tests:Unit test---In progress...
 Integeration.Tests:Postman test collection script
 
 -------------------------------Dev--------------------------------
+<br>
 Points to note for Asp.NET Core Web API practice
 
 	.Project Organization-OK
@@ -54,6 +56,7 @@ Points to note for Asp.NET Core Web API practice
 		Have a logging mechanism in place
 
 -----------------------Test------------------------------
+<br>
 	.UT:xUnit
 			These unit tests are focus on the actions of the controller's behaviors.
 			Those such as filters, routing, model binding will be validated in the integration test.
