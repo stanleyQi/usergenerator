@@ -16,6 +16,7 @@ Repository:DB manipulation
 Usergenerator.Tests:Unit test---In progress...
 Integeration.Tests:Postman test collection script
 ![](https://github.com/stanleyQi/usergenerator/raw/master/Usergenerator.Tests/result/tree.png)
+<br>
 -------------------------------Dev--------------------------------
 <br>
 Points to note for Asp.NET Core Web API practice
