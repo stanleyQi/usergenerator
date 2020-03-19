@@ -2,19 +2,20 @@
 ---------------------------Introduction----------------------
 <br>
 Tech stack:
-	Dev-Asp.net core2.2, EF core, LocalDB
-	Test-XUnit, Postman
 
-FileServer:Image file storage,running on https 5003
-UserInfo storage:LocalDB
+	.Dev-Asp.net core2.2, EF core, LocalDB
+	.Test-XUnit, Postman
 
-Usergenerator:Webapi,running on https 5001
-Contracts:Interface
-Entities:Entities and Dtos
-Logger:Logservice
-Repository:DB manipulation
-Usergenerator.Tests:Unit test---In progress...
-Integeration.Tests:Postman test collection script
+	.FileServer:Image file storage,running on https 5003
+	.UserInfo storage:LocalDB
+
+	.Usergenerator:Webapi,running on https 5001
+	.Contracts:Interface
+	.Entities:Entities and Dtos
+	.Logger:Logservice
+	.Repository:DB manipulation
+	.Usergenerator.Tests:Unit test---In progress...
+	.Integeration.Tests:Postman test collection script
 ![](https://github.com/stanleyQi/usergenerator/raw/master/Usergenerator.Tests/result/tree.png)
 <br>
 -------------------------------Dev--------------------------------
