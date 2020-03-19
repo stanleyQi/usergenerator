@@ -75,6 +75,7 @@ Points to note for Asp.NET Core Web API practice
 		.IsExistingUser
 
 .Integration:
+
 	Postman-OK
 		.GET: api/UserGenerator/?results=5&search=liqi
 		.GET: api/UserGenerator/5
