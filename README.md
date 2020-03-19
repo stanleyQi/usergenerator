@@ -57,28 +57,28 @@ Points to note for Asp.NET Core Web API practice
 
 -----------------------Test------------------------------
 <br>
-	.UT:xUnit
-			These unit tests are focus on the actions of the controller's behaviors.
-			Those such as filters, routing, model binding will be validated in the integration test.
+.UT:xUnit
+	These unit tests are focus on the actions of the controller's behaviors.
+	Those such as filters, routing, model binding will be validated in the integration test.
 
-			Controller-OK
-				.Get([FromQuery(Name = "results")] string queryCount, [FromQuery(Name = "search")] string searchName)	
-				.GetUser(long id)
-				.Put(long id, [FromBody] UserDto userDto)
-				.Delete(long id)
+	Controller-OK
+		.Get([FromQuery(Name = "results")] string queryCount, [FromQuery(Name = "search")] string searchName)	
+		.GetUser(long id)
+		.Put(long id, [FromBody] UserDto userDto)
+		.Delete(long id)
 
-			Repository-In progress...
-				.GetUsersByCondition-OK
-				.GetUserById
-				.Update
-				.Delete
-				.IsExistingUser
+	Repository-In progress...
+		.GetUsersByCondition-OK
+		.GetUserById
+		.Update
+		.Delete
+		.IsExistingUser
 
-	.Integration:Postman-OK
-				GET: api/UserGenerator/?results=5&search=liqi
-				GET: api/UserGenerator/5
-				PUT: api/UserGenerator/5
-				DELETE: api/UserGenerator/5
+.Integration:Postman-OK
+	GET: api/UserGenerator/?results=5&search=liqi
+	GET: api/UserGenerator/5
+	PUT: api/UserGenerator/5
+	DELETE: api/UserGenerator/5
 
 ////////////////////////////////Question and Answer///////////////////////////
 
