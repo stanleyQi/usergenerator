@@ -14,7 +14,7 @@ Tech stack:
 	.Entities:Entities and Dtos
 	.Logger:Logservice
 	.Repository:DB manipulation
-	.Usergenerator.Tests:Unit test---In progress...
+	.Usergenerator.Tests:Unit test(part of)
 	.Integeration.Tests:Postman test collection script
 ![](https://github.com/stanleyQi/usergenerator/raw/master/Usergenerator.Tests/result/tree.png)
 <br>
