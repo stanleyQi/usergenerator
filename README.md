@@ -84,32 +84,3 @@ Points to note for Asp.NET Core Web API practice
 		.PUT: api/UserGenerator/5
 		.DELETE: api/UserGenerator/5
 
-////////////////////////////////Question and Answer///////////////////////////
-
->1. What is your  favourite design pattern, and why?
--It can be seen that the implementations of most of the design patterns 
--when I work with frameworks. Such as "Singleton" for the HttpApplication, 
--"Chain of Responsibility" for the middleware and filter in asp.net, and 
--"Mediator" for the state module in react, etc.
--My favourite design pattern is   "Observer" because it is widely used in as Notification
--function, and be adapted in most of the frameworks both frontend and backend.
-
->2. For your favourite programming language, tell me about a new (or upcoming) language 
->feature that has you excited. Why is it exciting for you?
--For C#8.0, there was a new feature I was excited for, it is "Default implementations of interface members".
--It can be used for extending new features(module) based on existing interface added default implementations,
--but no need to modify the modules has implemented the interface.  
-
->3. What do you NOT like to see when you're reviewing your own or another colleague's code?
--I like to use proven best practice code, such as being readable, testable, and maintainable. 
--It is hoped that the newly introduced method can be used to a minimum unless this method can 
--significantly increase development efficiency.
-
->4. Tell me about a time you fixed a performance issue.
--Sorry, no relevant experience in recent years.
--I think this needs to be analyzed and improved layer by layer from the beginning of the architecture, 
--and it involves many aspects. 
--As far as programming is concerned, we can start with 
--framework performance verification, managed and unmanaged resource management, 
--programming algorithms and logic, database connection management, SQL optimization, 
--caching, and more.
